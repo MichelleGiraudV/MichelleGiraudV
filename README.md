@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Michelle
 
 Software Engineer based in Madrid, currently building scalable digital products with React, TypeScript, Node.js, Python and Next.js.
