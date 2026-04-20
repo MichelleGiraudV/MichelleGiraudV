@@ -1,18 +1,18 @@
-# Hi, I'm Michelle
+# Hi, I'm Michelle 👋
 
 Software Engineer based in Madrid, currently building scalable digital products with React, TypeScript, Node.js, Python and Next.js.
 
 I enjoy working across frontend and full-stack systems, with a focus on performance, maintainable architecture, API integrations, and reliable user experiences. My background in biomedical engineering also gives me a strong analytical and human-centered perspective when building technology.
 
-## Tech I work with
+## Tech I work with 🚀
 - **Frontend:** React, TypeScript, JavaScript, Next.js, Redux, Python
 - **Backend:** Node.js, REST APIs, service integrations, Python
 - **Cloud & Infra:** GCP, Cloud Run, Terraform, Docker, CI/CD
 - **Testing & Tools:** Jest, Git, Vite, Webpack, OpenAPI
 - **Databases:** SQL, MySQL, MongoDB, PostgreSQL
 
-## Featured project
-### Personal Health Tracker
+## Featured project 💻
+### Personal Health Tracker Oura ring 💍
 A full-stack health tracking application inspired by Oura-style health insights.  
 Built to explore product thinking, scalable architecture, analytics, and user-centered design in a real-world app. 
 
