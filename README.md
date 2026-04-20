@@ -18,19 +18,17 @@ Built to explore product thinking, scalable architecture, analytics, and user-ce
 
 The project combines a Next.js dashboard, PostgreSQL data storage, and a Python FastAPI analytics service to transform raw health data into normalized daily metrics and predictive insights.
 
-**Why I built this
-I built this project to explore how wearable data can be turned into practical health insights through a full-stack product experience.
+### Why I built this:
+I built this project to explore how wearable data can be turned into practical health insights through a full-stack product experience. Beyond building the dashboard itself, I wanted to work on the full data flow: authentication, ingestion, normalization, storage, analytics, and prediction. The project also gives me a way to deepen my skills in TypeScript, Python, backend services, and data-driven product development.
 
-Beyond building the dashboard itself, I wanted to work on the full data flow: authentication, ingestion, normalization, storage, analytics, and prediction. The project also gives me a way to deepen my skills in TypeScript, Python, backend services, and data-driven product development.
-
-**What it focuses on:**
+### What it focuses on:
 - Full-stack application structure
 - Health metrics tracking and visualization
 - Clean architecture and maintainable code
 - Analytics and trend exploration
 - Modern web development practices
 
-## What I care about
+### What I care about
 - Building scalable and reliable products
 - Writing clean, maintainable code
 - Creating smooth and intuitive user experiences
