@@ -49,4 +49,3 @@ I built this project to explore how wearable data can be turned into practical h
 
 ## Connect with me
 - LinkedIn: [michelle-giraud](https://www.linkedin.com/in/michelle-giraud)
-- GitHub: [MichelleGiraudV](https://github.com/MichelleGiraudV)
